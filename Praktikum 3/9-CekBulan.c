@@ -7,7 +7,7 @@
 
 int main ()
 {
-    //kamus
+    //Kamus
     int b;
 
     //Algoritma
