@@ -10,13 +10,13 @@ int main()
 {
     //Kamus
 	int N;
-    int i;
-    int P;
+    	int i;
+    	int P;
 	P = 0;
 
     //Algoritma
 	printf("-----Program Mengecek Bilangan Prima-----\n");
-    printf("=========================================\n");
+    	printf("=========================================\n");
 	printf("\nMasukkan Bilangan Integer : ");
 	scanf("%d", &N);
 
